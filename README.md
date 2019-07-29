@@ -6,16 +6,17 @@ Requirement
 Platform : WindowsNT
 Hardware : Any
 RAM : 512mb
-Usage
-Compile
-      g++ pefinal.cpp
-      OR
-      In IDE:-
-      rebuild solution (alt+ctrl+f7)
+Usage:-
 
-Execute
-      ./a.out
-      OR
-      In IDE:-
-      run 
+Compile:-
+g++ pefinal.cpp
+OR
+In IDE:-
+rebuild solution (alt+ctrl+f7)
+
+Execute:-
+./a.out
+ OR
+ In IDE:-
+ run 
       
