@@ -6,7 +6,7 @@ Requirement
 Platform : WindowsNT
 Hardware : Any
 RAM : 512mb
-# Usage:-
+
 # Compile:-
 g++ pefinal.cpp
 OR
